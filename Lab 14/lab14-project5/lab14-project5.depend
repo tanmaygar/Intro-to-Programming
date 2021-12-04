@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1613484838 source:c:\users\sumit\desktop\intro to programming\lab 14\lab14-project5\test.c
+	<stdio.h>
+	"test.h"
+
+1613484415 c:\users\sumit\desktop\intro to programming\lab 14\lab14-project5\test.h
+
+1613484849 source:c:\users\sumit\desktop\intro to programming\lab 14\lab14-project5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"test.h"
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1614162805 source:c:\users\sumit\desktop\intro to programming\lab-exam-3\labexam3-project3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

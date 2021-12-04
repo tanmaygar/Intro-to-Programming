@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611114363 source:c:\users\sumit\desktop\intro to programming\lab 10\lab10-project1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

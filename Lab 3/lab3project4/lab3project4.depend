@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606902017 source:c:\users\sumit\desktop\intro to programming\lab 3\lab3project4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
